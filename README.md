@@ -1,6 +1,5 @@
 # Ailunce-HD1-CP
-Ailunce HD1 DMR Radio Code Plug - OHIO - WORK IN PROGRESS - ONLY THE README SO FAR.
-
+Ailunce HD1 DMR Radio Code Plug - OHIO - WORK IN PROGRESS
 This repository contains a base DMR Code Plug for the Ailunce HD1 radio. 
 
 The user is expected to add their Radio Information, Call Sign with DMR ID and create any special Zones for scanning.
